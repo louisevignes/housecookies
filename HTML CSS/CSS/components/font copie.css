@@ -1,0 +1,36 @@
+body{
+    font-family: "elza-text", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h1 {
+    font-family: "bc-alphapipe", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #653B09;
+}
+
+h2 {
+    font-family: "bc-alphapipe", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #653B09;
+}
+h3 {
+    font-family: "bc-alphapipe", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #653B09;
+}
+h4 {
+    font-family: "bc-alphapipe", sans-serif;
+    font-weight: 250px;
+    font-style: normal;color: #653B09;
+}
+h5 {
+    font-family: "bc-alphapipe", sans-serif;
+    font-weight: 200px;
+    font-style: normal;
+    color: #653B09;
+}
+
